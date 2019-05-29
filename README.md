@@ -1,64 +1,50 @@
 ## SECTION 1 : PROJECT TITLE
-## 4M1L - Production Scheduling Optimization System
+## 4M1L - ISS Enquiry Chat Bot
 
 <img src="Miscellaneous/home.png"
      style="float: left; margin-right: 0px;" />
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-Manufacturing sector has been the key pillar of Singapore's strong economy. As manufacturing sector is a capital intensive and cost sensitive industry, Singapore's manufacturing has moved towards high-value added sectors in order to differentiate itself from other cost-competitive countries. Latest Singapore's economy data shows manufacturing sector remains the top GDP contribution sector, contributing approximately 21% of nominal GDP in 2018.
+The evolution of artificial intelligence has became a hot topic in the recent year. While comparing between artificial intelligence and chatbots, chatbots are only a faint splash on a huge wave of progress. In the recent days, the number of users of social media messaging apps like Slack, Whatsapps, Telegrama and Skype are skyrocketing,  Facebook Messenger alone has achieved the milestone of 1.2 billion monthly users. With the increasing of popularity of messaging apps, virtual chatbots that imitate human conversations for solving various tasks are becoming a trend and is an inevitable process to move towards an advanced society. Chinese WeChat bots nowadays provide a fancy function to minimize the repetitive process, such as setting medical appointments, calling a taxi, sending money to friends, check in for a flight and so on.
 
-In advanced manufacturing, automation is the key enabler for higher productivity and quality control. As automation requires machine and process synchronization, increasing level of automation also increases the challenge to utilize available resources for maximum throughput with minimum cost. For businesses which adopt high mix low volume manufacturing strategy, the key goal is to determine the best plan that yields highest profit or achieve lowest production cost for high mix design which requires different set of processes respectively.  
+When come to the sector of automating customer support, online chatbots will come in handy to save time and more efficient. Gartner forecasts that by 2020, over 85% of customer interactions will be handled without a human. However, the advantages provided by chatbot systems exceeded the expectation of an ordinary system that give responses to customers’ inquiries. They also provide function such as collecting information about users, reducing overhead costs and helping to organize meetings. It is undoubtedly that size of the chatbot market is growing exponentially.
 
-Adding other factors like required delivery leadtime, minimum fulfilled quantity, gross margin per order into the equation, it is obvious that human planning and scheduling is no longer efficient and optimized in any possible way. A near real-time production scheduling system becomes a vital solution to address such multi-resource, multi-project problem. A smart scheduling system also increases operation agility to better respond to dynamic business needs. 
-
-For our project, we designed a production scheduling system to optimize the job scheduling for multiple components undergoing various manufacturing processes. Machine capacity, assigned process capability and operating cost are defined in the problem in order to reflect the actual business operations. Our goal is to optimize scheduling problem and maximize profits in the same time. 
+Looking at the current website of ISS, there is still a big improvement that could be made to help our next batch of student in better understanding the ISS programme. Our team has applied the techniques learned in class and scraped the information from the existing website to develop a chatbot. By utilizing the Dialogflow and Slack, it saves us the time to develop the backend and frontend yet achieving the optimized result. It will definitely be a good news for ISS applicants if the chatbot is successfully implemented in the ISS website.
 
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Chen Liwei | A0101217B | Video Editing Report Writing Programming (Front End) | e0384319@u.nus.edu |
-| Lee Boon Kien | A0195175W | Video Presentation Report Writing | e0384806@u.nus.edu |
-| Ng Cheong Hong| A0195290Y| Knowledge Modelling Report Writing | e0384921@u.nus.edu |
-| Raymond Djajalaksana| A0195381X | Knowledge Modelling Programming (Backend) | e0385012@u.nus.edu |
-| Seah Jun Ru| A0097451Y | Video Actor Report Writing Programming (Front End) | e0258166@u.nus.edu |
+| Chen Liwei | A0101217B | Knowledge Acquisition, Video Editing, Report Writing | e0384319@u.nus.edu |
+| Lee Boon Kien | A0195175W | Video Presentation, Report Writing | e0384806@u.nus.edu |
+| Ng Cheong Hong| A0195290Y| Knowledge Modelling, Programmer | e0384921@u.nus.edu |
+| Raymond Djajalaksana| A0195381X | Knowledge Acquisition, Report Writing | e0385012@u.nus.edu |
+| Seah Jun Ru| A0097451Y | Video Actor, Report Writing, Programmer | e0258166@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Production Scheduling Optimization System](http://img.youtube.com/vi/KcwQcBxI_vM/0.jpg)](https://youtu.be/KcwQcBxI_vM)
+[![ISS Enquiry Chat Bot](http://img.youtube.com/vi/KcwQcBxI_vM/0.jpg)](https://youtu.be/KcwQcBxI_vM)
 
 ---
 ## SECTION 5 : USER GUIDE
 
-Requirements:
-* nodejs and npm should be installed. Otherwise please download and install from the following website: https://www.npmjs.com/get-npm
-* To run the backend system, you can just run the binary file (src/go/main.exe). But it is also recommended to always install Golang version 1.12.4 or later. Please follow the installation in https://golang.org/dl/
+#### Requirements
+- You just need to create account to our chatbot workspace. To create new account simply use this invitation link:
+https://join.slack.com/t/iss4m1l/shared_invite/enQtNjM5MzgzMTQ4NDM3LTcxZjM1ZGZlM2VkYzVjZGY4OTU4NDcxYTkyMDViNTFhYjVmMDRmZWNhYjFlMjNlZDM5NGFhODEyN2E0MDNkOTE
+- If you already have the account you can try login from here :
+https://iss4m1l.slack.com/
 
-Installation:
-- [Node.js ](https://nodejs.org/en/ "Node.js ")
-- [Optional] [Golang](https://golang.org/dl/ "Golang")
-``` bash
-# 1. install all front end dependenciess
-cd SystemCode/company-order-form
-npm i react-scripts
-npm install
+- Join public channel *#iss-course-enquiry* or simply browse ISS Course Enquiry app.
 
-# 2. Run both web app and backend system
-start_server.sh # to start backend system
-web_app.sh # to start web app
-start.sh # to run both start_server.sh and web_app.sh
-
-```
-
-User Guide
-`4M1L_User_Guide_PSOS.pdf` : <https://github.com/raycap/IRS-RS-2019-03-19-IS1PT-GRP-4M1L-PSOS/blob/master/UserGuide/4M1L_User_Guide_PSOS.pdf>
+#### User Guide
+`4M1L_User_Guide_ECB.pdf` : <https://github.com/raycap/IRS-RS-2019-04-27-IS1PT-GRP-4M1L-CB/blob/master/UserGuide/4M1L_User_Guide_ECB.pdf>
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
-`4M1L_ProductionSchedulingOptimizationSystemReport.pdf` : <https://github.com/raycap/IRS-RS-2019-03-19-IS1PT-GRP-4M1L-PSOS/blob/master/ProjectReport/4M1L_ProductionSchedulingOptimizationSystemReport.pdf>
+`4M1L_ECB.pdf` : <https://github.com/raycap/IRS-RS-2019-04-27-IS1PT-GRP-4M1L-CB/blob/master/ProjectReport/4M1L_ISSEnquiryChatBot.pdf>
 
 
 ---
