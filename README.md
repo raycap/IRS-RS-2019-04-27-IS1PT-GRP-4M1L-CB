@@ -20,7 +20,7 @@ Looking at the current website of ISS, there is still a big improvement that cou
 | Chen Liwei | A0101217B | Knowledge Acquisition, Video Editing, Report Writing | e0384319@u.nus.edu |
 | Lee Boon Kien | A0195175W | Video Presentation, Report Writing | e0384806@u.nus.edu |
 | Ng Cheong Hong| A0195290Y| Knowledge Modelling, Programmer | e0384921@u.nus.edu |
-| Raymond Djajalaksana| A0195381X | Knowledge Acquisition, Report Writing | e0385012@u.nus.edu |
+| Raymond Djajalaksana| A0195381X | Knowledge Acquisition, Report Writing, Programmer | e0385012@u.nus.edu |
 | Seah Jun Ru| A0097451Y | Video Actor, Report Writing, Programmer | e0258166@u.nus.edu |
 
 ---
