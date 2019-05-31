@@ -26,7 +26,7 @@ Looking at the current website of ISS, there is still a big improvement that cou
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![ISS Enquiry Chat Bot](https://youtu.be/ppnxJO0DCK4/0.jpg)](https://youtu.be/ppnxJO0DCK4)
+[![ISS Enquiry Chat Bot](https://i9.ytimg.com/vi/ppnxJO0DCK4/mqdefault.jpg?sqp=COywxOcF&rs=AOn4CLBSHKgJQ3-AE3K-0Xwg19CtTNA3PA&time=1559304374112)](https://youtu.be/ppnxJO0DCK4)
 
 ---
 ## SECTION 5 : USER GUIDE
