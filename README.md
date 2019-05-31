@@ -44,7 +44,7 @@ https://iss4m1l.slack.com/
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
-`4M1L_ECB.pdf` : <https://github.com/raycap/IRS-RS-2019-04-27-IS1PT-GRP-4M1L-CB/blob/master/ProjectReport/4M1L_ISSEnquiryChatBotReport.pdf>
+`4M1L_ISSEnquiryChatBotReport.pdf` : <https://github.com/raycap/IRS-RS-2019-04-27-IS1PT-GRP-4M1L-CB/blob/master/ProjectReport/4M1L_ISSEnquiryChatBotReport.pdf>
 
 ---
 
