@@ -21,12 +21,12 @@ Looking at the current website of ISS, there is still a big improvement that cou
 | Lee Boon Kien | A0195175W | Video Presentation, Report Writing | e0384806@u.nus.edu |
 | Ng Cheong Hong| A0195290Y| Knowledge Modelling, Programmer | e0384921@u.nus.edu |
 | Raymond Djajalaksana| A0195381X | Knowledge Acquisition, Report Writing, Programmer | e0385012@u.nus.edu |
-| Seah Jun Ru| A0097451Y | Video Actor, Report Writing, Programmer | e0258166@u.nus.edu |
+| Seah Jun Ru| A0097451Y | Report Writing, Programmer | e0258166@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![ISS Enquiry Chat Bot](http://img.youtube.com/vi/KcwQcBxI_vM/0.jpg)](https://youtu.be/KcwQcBxI_vM)
+[![ISS Enquiry Chat Bot](https://youtu.be/ppnxJO0DCK4/0.jpg)](https://youtu.be/ppnxJO0DCK4)
 
 ---
 ## SECTION 5 : USER GUIDE
